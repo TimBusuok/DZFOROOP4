@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         PrintElement printEl = new PrintElement();
 
-        printEl.printElement(5);
-        printEl.printElement("Hello world!");
-        printEl.printElement(13.5);
+        printEl.printElement(7);
+        printEl.printElement("hello world!");
+        printEl.printElement(14.2);
     }
 }

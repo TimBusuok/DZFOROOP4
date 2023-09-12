@@ -5,7 +5,7 @@ public class Main {
         PrintArray printArr = new PrintArray();
 
         String[] arrString = {"Hello", "World"};
-        Integer[] arrInt = {1, 10, 20, 30};
+        Integer[] arrInt = {5, 10, 15, 20, 25, 30};
 
         printArr.printArray(arrString);
         printArr.printArray(arrInt);
